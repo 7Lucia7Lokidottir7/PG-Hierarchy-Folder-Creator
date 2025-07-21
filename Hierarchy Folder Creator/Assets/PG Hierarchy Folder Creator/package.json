@@ -1,0 +1,8 @@
+{
+  "name": "com.pg.hierarchy-folder-creator",
+  "version": "1.0.1",
+  "displayName": "Hierarchy Folder Creator",
+  "description": "",
+  "unity": "2022.3",
+  "type": "plugin"
+}
