@@ -1,5 +1,8 @@
 # PG Hierarchy Folder Creator
 
+
+![Unity](https://img.shields.io/badge/Unity-2022.3%2B-black)
+
 A lightweight Unity Editor utility designed to keep your scene Hierarchy clean and organized. It provides locked "Folder" objects and visual "Separators" to easily structure your GameObjects without messing up their transforms.
 
 ## Features
